@@ -1,11 +1,9 @@
 
-# **Text Effects by Akis**
+# **Rework-TextEffects-Nexo**
 
-Discover a collection of stunning text effects inspired by plugins like **ItemsAdder**. Originally crafted for **[Nexo](https://docs.nexomc.com)**, these effects can also be used in **vanilla Minecraft** by applying the correct hex color codes to your text.
+This collection of text effects is designed to replicate the behavior of text effects from **ItemsAdder**. It is primarily intended for use with the **[Nexo](https://docs.nexomc.com)** plugin, though it can also be used in vanilla Minecraft by correctly applying the appropriate hex color code to the text.
 
----
-# I GIVE BOY - THE MAKER AND OWNER OF NEXO - ALL THE PERMISSION TO ADD THIS
----
+More text effects will be added in the future.
 
 ### **Effects and Their Colors**
 
