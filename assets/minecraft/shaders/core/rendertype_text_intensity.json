@@ -1,6 +1,6 @@
 {
-  "vertex": "rendertype_text",
-  "fragment": "rendertype_text",
+  "vertex": "rendertype_text_intensity",
+  "fragment": "rendertype_text_intensity",
   "samplers": [
     { "name": "Sampler0" },
     { "name": "Sampler2" }
