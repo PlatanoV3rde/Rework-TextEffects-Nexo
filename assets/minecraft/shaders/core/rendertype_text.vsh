@@ -491,15 +491,15 @@ void main() {
             return;
         }
         if (iColor == ivec3(57, 63, 62) || iColor == ivec3(57, 62, 63)) {
-            processTintedWavyEffect(vertex, 12000.0, 0.5, 0.35, vec3(80.0/255.0, 1.0, 80.0/255.0), 1.0);
+            processWavyEffect(vertex, 12000.0, 0.5, 0.35);
             return;
         }
         if (iColor == ivec3(57, 62, 62) || iColor == ivec3(57, 61, 63)) {
-            processTintedBouncyEffect(vertex, 3000.0, 1.0, vec3(1.0, 170.0/255.0, 0.0), 1.0);
+            processBouncyEffect(vertex, 3000.0, 1.0);
             return;
         }
         if (iColor == ivec3(57, 61, 62)) {
-            processTintedBlinkingEffect(vertex, 0.5, vec3(80.0/255.0, 80.0/255.0, 1.0), 1.0);
+            processBlinkingEffect(vertex, 0.5);
             return;
         }
 
@@ -525,7 +525,7 @@ void main() {
         return;
     }
     if (iColor == ivec3(230, 255, 250)) {
-        processTintedWavyEffect(vertex, 12000.0, 0.5, 0.35, vec3(80.0/255.0, 1.0, 80.0/255.0), 1.0);
+        processWavyEffect(vertex, 12000.0, 0.5, 0.35);
         return;
     }
     if (iColor == ivec3(230, 251, 254)) {
@@ -533,7 +533,7 @@ void main() {
         return;
     }
     if (iColor == ivec3(230, 251, 250)) {
-        processTintedBouncyEffect(vertex, 3000.0, 1.0, vec3(1.0, 170.0/255.0, 0.0), 1.0);
+        processBouncyEffect(vertex, 3000.0, 1.0);
         return;
     }
     if (iColor == ivec3(230, 247, 254)) {
@@ -541,7 +541,7 @@ void main() {
         return;
     }
     if (iColor == ivec3(230, 247, 250)) {
-        processTintedBlinkingEffect(vertex, 0.5, vec3(80.0/255.0, 80.0/255.0, 1.0), 1.0);
+        processBlinkingEffect(vertex, 0.5);
         return;
     }
 
