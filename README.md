@@ -45,15 +45,3 @@ Place this zip in `plugins/Nexo/pack/external_packs` and regenerate the pack.
 | Lava | `#E6EFFE` |
 | Sequential Spin | `#E6EFFA` |
 
-## Credits
-- Rework-TextEffects-Nexo / PlatanoV3rde
-- Text-Effects-by-Akis
-- TheSalt's Text Effects
-
-Keep the included `LICENSE` file.
-
-
-Ajuste 2026-04-03: Gradient, Dynamic Gradient y Sequential Spin alineados con la configuración del repo TheSalts/Text_Effects para 1.21.x.
-
-
-Correccion 2026-04-03: Dynamic Gradient restaurado sobre la base funcional 1.21.1.
